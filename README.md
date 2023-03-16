@@ -11,6 +11,12 @@ found using Random forest giving training accuracy of 100% and testing accuracy 
 
 
 
+## Dataset Used
+
+https://www.kaggle.com/datasets/ishandutta/early-stage-diabetes-risk-prediction-dataset
+
+
+
 ## Methodology
 
 ### Libraries used
